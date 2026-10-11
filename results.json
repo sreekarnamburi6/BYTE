@@ -1,0 +1,1 @@
+{"version":"5.0.3","results":[[":tests/ai-engine.test.ts",{"duration":10.873100000000022,"failed":false}],[":tests/document-processing.test.ts",{"duration":2513.5436,"failed":false}],[":tests/document-storage.test.ts",{"duration":10.304200000000037,"failed":false}],[":tests/report-pdf.test.ts",{"duration":78.26479999999992,"failed":false}]]}
